@@ -6,6 +6,12 @@
     "toolkit": "modern",
     "theme": "theme-material",
 
+    "language": {
+        "js": {
+            "output": "NEXT"
+        }
+    },
+
     /**
      * The list of required packages (with optional versions; default is "latest").
      *
@@ -208,7 +214,7 @@
             "remote": true
         },
         {
-            "path": "${framework.dir}/build/ext-modern-all-debug.js"
+            "path": "${framework.dir}/build/ext-modern.js"
         },
         {
             "path": "app.js",
@@ -290,7 +296,16 @@
             "enable": true
         },
         "compressor": {
-            "type": "yui"
+            "type": "closure",
+            "polyfills": "all",
+            "compression": "simple",
+            "foldConstants": true,
+            "removeDeadCode": true,
+            "removeUnusedVariables": "ALL",
+            "variableRenaming": "LOCAL",
+            "disambiguatePrivateProperties": true,
+            "disambiguateProperties": true,
+            "ambiguateProperties": true
         }
     },
 
