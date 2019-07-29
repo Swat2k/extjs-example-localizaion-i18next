@@ -1,2 +1,2 @@
 # extjs-example-localizaion-i18next
- Dynamic localization of extjs applications using the i18next library
+An example of using dynamic localization of ExtJS (modern toolkit) applications using the i18next library

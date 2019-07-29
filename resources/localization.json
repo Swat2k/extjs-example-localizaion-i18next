@@ -1,0 +1,40 @@
+{
+    "en": {
+        "translation": {
+            "HELLO_WORLD": "Hello world",
+            "CURRENT_LANG": "Current language",
+            "SETTINGS": "Settings",
+            "GROUPS": "Groups",
+            "USERS": "Users",
+            "HOME": "Home",
+            "PERSONNEL": "Personnel",
+            "NAME": "Name",
+            "PHONE": "Phone",
+            "EXAMPLE_TEXT": "If the mind is to emerge unscathed from this relentless struggle with the unforeseen, two qualities are indispensable: first, an intellect that, even in the darkest hour, retains some glimmerings of the inner light which leads to truth; and second, the courage to follow this faint light wherever it may lead.",
+            "EXAMPLE_SELECTED": "Selected",
+            "EXAMPLE_KEY": "item",
+            "EXAMPLE_KEY_plural": "items"
+        }
+    },
+    "ru": {
+        "translation": {
+            "HELLO_WORLD": "Привет мир",
+            "CURRENT_LANG": "Выбранный язык",
+            "SETTINGS": "Настройки",
+            "GROUPS": "Группы",
+            "USERS": "Пользователи",
+            "HOME": "Домашняя страница",
+            "PERSONNEL": "Персонал",
+            "NAME": "Имя",
+            "PHONE": "Телефон",
+            "EXAMPLE_TEXT": "Люди, действовавшие в данном случае, даже если они принадлежали к числу самых плохих полководцев, все же никогда не бывали лишены простого здравого смысла и никогда бы не допустили тех нелепых поступков, какие им приписывает огулом и без разбора широкая публика и историческая критика. Большинство представителей последней были бы изумлены, если бы могли ознакомиться с ближайшими мотивами действий и, по всей вероятности, сами подчинились бы им, как и тот полководец, который теперь представляется им и изображается ими чуть ли не полуидиотом.",
+            "EXAMPLE_SELECTED": "Выбранно",
+            "EXAMPLE_KEY": "itemS",
+            "EXAMPLE_KEY_plural": "itemsAS",
+            "EXAMPLE_KEY_0": "Строка",
+            "EXAMPLE_KEY_1": "Строки",
+            "EXAMPLE_KEY_2": "Строк",
+            "EXAMPLE_KEY_5": "Строкы"
+        }
+    }
+}
