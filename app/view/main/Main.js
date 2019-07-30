@@ -34,6 +34,7 @@ Ext.define('Example.view.main.Main', {
                 }
             },
             iconCls: 'x-fa fa-user',
+            padding: 48,
             bind: {
                 html: '{i18n.EXAMPLE_TEXT}'
             }
@@ -44,6 +45,7 @@ Ext.define('Example.view.main.Main', {
                 }
             },
             iconCls: 'x-fa fa-users',
+            padding: 48,
             bind: {
                 html: '{i18n.EXAMPLE_TEXT}'
             }
